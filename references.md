@@ -1,3 +1,3 @@
 # References
 
-* octocat 1 😈
+- octocat is both an octopus and a cat!
